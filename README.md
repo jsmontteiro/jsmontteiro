@@ -1,16 +1,20 @@
+# José Monteiro
+
 ### Hi there 👋
 
-<!--
-**jsmontteiro/jsmontteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Welcome! My name is José Monteiro</p>
 
-Here are some ideas to get you started:
+<p>I'm a mobile developer from Brazil but now I living in Dublin, Ireland.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Graduating in Information Systems at FCSL</p>
+
+<p>Currently working at Localiza Labs as native mobile developer</p>
+
+### Technologies and skills
+
+<a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+
+#### Where to find me? :mag:
+
+[Linkedin](https://www.linkedin.com/in/jsmontteiro/)
